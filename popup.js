@@ -29,7 +29,7 @@ let tempButton = document.getElementById('temp');
 tempButton.addEventListener('click',function(){
     ownerInput.value='ctk03272';
     repoInput.value='LeetCode';
-    oAuthTokenInput.value='7a31cd384d7faae0b5f770d39359dd34ed31b573';
+    oAuthTokenInput.value='';
     fileNameInput.value='ctk0327';
     messageInput.value='commit~~';
     committerNameInput.value='ctk0327';
