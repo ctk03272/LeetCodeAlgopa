@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d61de5b-d556-4e39-a399-450ee79a009d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1b9iQdNTCzXZnPZSkZqVPxZa7cG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ctk0327.github.io" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d61de5b-d556-4e39-a399-450ee79a009d" name="Default Changelist" comment="" />
+      <created>1588050694406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588050694406</updated>
+      <workItem from="1588050695641" duration="8211000" />
+      <workItem from="1588125608180" duration="24690000" />
+      <workItem from="1588519242724" duration="25000" />
+      <workItem from="1588725563311" duration="28332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="198" width="816" height="826" key="#Intentions" timestamp="1588134971018">
+      <screen x="0" y="0" width="1836" height="1080" />
+    </state>
+    <state x="510" y="198" width="816" height="826" key="#Intentions/0.0.1836.1080@0.0.1836.1080" timestamp="1588134971018" />
+    <state x="674" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588138792877">
+      <screen x="0" y="0" width="1836" height="1080" />
+    </state>
+    <state x="674" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1836.1080@0.0.1836.1080" timestamp="1588138792877" />
+    <state x="697" y="295" key="FileChooserDialogImpl" timestamp="1588811355464">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state x="697" y="295" key="FileChooserDialogImpl/0.0.1834.1080@0.0.1834.1080" timestamp="1588811355464" />
+    <state x="698" y="295" key="FileChooserDialogImpl/0.0.1836.1080/1920.0.1680.1010@0.0.1836.1080" timestamp="1588519266057" />
+    <state x="600" y="255" width="633" height="640" key="find.popup" timestamp="1588832364305">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state x="600" y="255" width="633" height="640" key="find.popup/0.0.1834.1080@0.0.1834.1080" timestamp="1588832364305" />
+    <state x="574" y="250" key="run.anything.popup" timestamp="1588184567470">
+      <screen x="0" y="0" width="1836" height="1080" />
+    </state>
+    <state x="574" y="250" key="run.anything.popup/0.0.1836.1080/1920.0.1680.1010@0.0.1836.1080" timestamp="1588184567470" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/popup.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/popup.js</url>
+          <line>48</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/contentScript.js</url>
+          <line>22</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
